@@ -1,0 +1,4 @@
+default: &default
+  port: 1323
+local:
+  <<: *default
