@@ -1,6 +1,7 @@
 # generator-ss-go-echo
 
 [![npm version](https://badge.fury.io/js/generator-ss-go-echo.svg)](https://badge.fury.io/js/generator-ss-go-echo)
+[![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/generator-ss-go-echo.svg)](https://github.com/suzuki-shunsuke/generator-ss-go-echo)
 
 [yeoman generator](http://yeoman.io/) for web application made with [golang](https://golang.org/) and [echo](https://echo.labstack.com/).
 
