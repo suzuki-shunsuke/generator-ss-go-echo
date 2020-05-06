@@ -19,7 +19,7 @@
   ],
   "devDependencies": {
     "eslint": "^4.1.0",
-    "eslint-config-xo-space": "0.16.0",
+    "eslint-config-xo-space": "0.24.0",
     "husky": "0.14.3",
     "jest": "26.0.1",
     "jest-cli": "26.0.1",
