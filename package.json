@@ -20,7 +20,7 @@
   "devDependencies": {
     "eslint": "^4.1.0",
     "eslint-config-xo-space": "0.16.0",
-    "husky": "0.14.3",
+    "husky": "4.2.5",
     "jest": "26.0.1",
     "jest-cli": "26.0.1",
     "nsp": "2.8.1",
